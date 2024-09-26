@@ -18,3 +18,16 @@ last_ind=(np_array[-1])
 print(f"the last index of array is",last_ind)
 mul_np=np_array*2
 print("after multiplying by 2 the array is ",mul_np)
+
+arr=np.array([12,2,23]
+             [2,2,2,])
+arr1=np.transpose(arr)
+print(arr1)
+
+
+
+
+
+
+
+
